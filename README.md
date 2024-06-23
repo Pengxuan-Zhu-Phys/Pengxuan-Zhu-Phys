@@ -2,7 +2,10 @@
 <p><pre align="center">
 <strong>Pengxuan Zhu /</strong> <a href="https://inspirehep.net/authors/1721708">InspireHEP</a> / <a href="https://github.com/Pengxuan-Zhu-Phys">GitHub</a> / <a href="https://x.com/buding_c">X</a></pre></p>
 
-[![Pengxuan Zhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pengxuan-Zhu-Phys&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p><pre aligh="left">
+![Pengxuan Zhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=neon)
+</pre></p>
+[![Pengxuan Zhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pengxuan-Zhu-Phys&theme=neon)]
 <!--
 **Pengxuan-Zhu-Phys/Pengxuan-Zhu-Phys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
