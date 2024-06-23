@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p><pre align="center">
-<strong>Pengxuan Zhu /</strong> <a href="[https://www.labri.fr/perso/nrougier](https://inspirehep.net/authors/1721708)">InspireHEP</a> / <a href="https://github.com/rougier">GitHub</a> / <a href="https://gist.github.com/rougier">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">Stack Overflow</a> / <a href="https://www.slideshare.net/NicolasRougier1">Slideshare</a> / <a href="https://www.shadertoy.com/user/rougier">Shadertoy</a></pre></p>
+<strong>Pengxuan Zhu /</strong> <a href="https://inspirehep.net/authors/1721708">InspireHEP</a> / <a href="https://github.com/Pengxuan-Zhu-Phys">GitHub</a> / <a href="https://x.com/buding_c">X</a></pre></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pengxuan-Zhu-Phys)](https://github.com/anuraghazra/github-readme-stats)
 
