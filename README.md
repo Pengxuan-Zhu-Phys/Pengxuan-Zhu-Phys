@@ -6,6 +6,7 @@
 </h1>
 
 <p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Pengxuan-Zhu-Phys)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=Pengxuan-Zhu-Phys&show_icons=true&theme=neon" align="right" width="45.5%"></img>
 
 I’m a researcher at the University of Adelaide. My research area is particle physics theory, with a focus on high-energy collider physics and its connection with astroparticle physics and cosmology. By building theoretical models of elementary particles and their interactions, and developing strategies for testing theories through experimental and observational methods. This research direction that connects abstract theory and experimental observation is called phenomenology.
