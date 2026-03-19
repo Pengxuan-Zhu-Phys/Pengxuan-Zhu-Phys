@@ -17,8 +17,6 @@ The questions that I think about from theory and seek answers for in experiments
 - Symmetry and its breaking mechanisms: gauge symmetry, supersymmetry, and CP violation;
 - The fundamental nature of dark matter particles.
 
-Now I am interested in automating calculations in high-energy physics. Currently, I contribute to GAMBIT and also develop my own projects, including Jarvis-HEP.
-
 </td>
     <td valign="top" align="right" width="38%">
       <a href="https://git.io/streak-stats">
@@ -38,6 +36,7 @@ Now I am interested in automating calculations in high-energy physics. Currently
   </tr>
 </table>
 
+Now I am interested in automating calculations in high-energy physics. Currently, I contribute to GAMBIT and also develop my own projects, including Jarvis-HEP.
 
 <!-- <p>
 <a><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pengxuan-Zhu-Phys&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&stroke=EBE226&background=90%2C000000%2C2C9BA0" alt="GitHub Streak" align="right" width="45.5%"/></a>
