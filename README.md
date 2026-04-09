@@ -29,7 +29,7 @@ The questions that I think about from theory and seek answers for in experiments
       </a>
       <br/>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Pengxuan-Zhu-Phys&show_icons=true&theme=neon"
+        src="http://github-readme-stats.vercel.app/api?username=Pengxuan-Zhu-Phys&show_icons=true&theme=neon"
         alt="GitHub Stats"
         width="100%"
       />
